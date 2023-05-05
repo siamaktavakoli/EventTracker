@@ -1,2 +1,2 @@
 # INTEGRATION-PROJECT
-All the CS590 final project sources added as a single project
+All the distributed project sources added as a single project
